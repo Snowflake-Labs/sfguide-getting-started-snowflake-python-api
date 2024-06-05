@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this guide, we will learn how to use Snowflake Python API, an unified library that allows Python applications to seamlessly connect with Snowflake. It provides with extensive set of APIs to perform tasks across data engineering, machine learning, generative AI, Snowpark, DevOps and much more.
+In this guide, we will learn how to use [Snowflake Python API](https://docs.snowflake.com/en/developer-guide/snowflake-python-api/snowflake-python-overview), an unified library that allows Python applications to seamlessly connect with Snowflake. It provides with extensive set of APIs to perform tasks across data engineering, machine learning, generative AI, Snowpark, DevOps and much more.
 
 ## Step-By-Step Guide
 
